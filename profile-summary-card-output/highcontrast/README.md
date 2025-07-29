@@ -15,20 +15,20 @@
 ### Each card usage
 ---
 
-![](./3-stats.svg)
+![](./1-repos-per-language.svg)
 
 ```
-![](https://raw.githubusercontent.com/Bear-code91/Bear-code91/master/profile-summary-card-output/highcontrast/3-stats.svg)
+![](https://raw.githubusercontent.com/Bear-code91/Bear-code91/master/profile-summary-card-output/highcontrast/1-repos-per-language.svg)
 ```
 
     
 
 ---
 
-![](./4-productive-time.svg)
+![](./2-most-commit-language.svg)
 
 ```
-![](https://raw.githubusercontent.com/Bear-code91/Bear-code91/master/profile-summary-card-output/highcontrast/4-productive-time.svg)
+![](https://raw.githubusercontent.com/Bear-code91/Bear-code91/master/profile-summary-card-output/highcontrast/2-most-commit-language.svg)
 ```
 
     
